@@ -15,3 +15,6 @@ ln -s /opt/sonar-scanner-3.2.0.1227-linux/ /opt/sonar-scaner
 
 ln -s /opt/sonar-scanner/bin/sonar-scanner /usr/bin/sonar-scanner
 
+
+# use
+-> http://localhost:9000
